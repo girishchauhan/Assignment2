@@ -184,7 +184,7 @@
 	position:absolute;
 	left:30px;
 	top:337px;
-    background-image:url("image3.png");
+        background-image:url("image3.png");
 	background-repeat:no-repeat;
 	border-top-left-radius:100px;
 	border-top-right-radius:100px;
@@ -207,7 +207,7 @@
 
 
 .Description1{
-    display: flex;
+display: flex;
 flex-direction: row;
 align-items: flex-start;
 padding: 0px;
